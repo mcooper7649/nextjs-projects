@@ -95,4 +95,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
     3. this will expose the pathname to get here [projectId.js]
     4. query will expose the queried name that hit that path
 
-## 
+##  et
